@@ -1,0 +1,1 @@
+Tämä hakemisto sisältää osan 1 tehtävien vastaukset.

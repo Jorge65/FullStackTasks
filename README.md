@@ -1,6 +1,6 @@
 # FullStackTasks
 Tämä repository sisältää vastaukset tehtäviin 
-FullStackOpen MOOC kurssin tehtäville v2023.
+FullStackOpen 2023 MOOC kurssin tehtäville.
 Tehtävät on lajiteltu alihakemistoihin kurssin mukaisiin osiin.
 osa0
 osa1
@@ -10,3 +10,4 @@ osa1
 osa2
   puhelinluettelo
   maiden_tiedot
+jne...
