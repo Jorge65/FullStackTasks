@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+    {
+        "name": "Teemu Kas",
+        "number": "030-123456789012",
+        "id": "641b4461d5ef50ffb979cb94"
+    }
