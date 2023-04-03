@@ -10,4 +10,13 @@ Tehtävät on lajiteltu alihakemistoihin kurssin mukaisiin osiin.
 - osa2
     - puhelinluettelo
     - maiden_tiedot
-- jne...
+- osa2
+    - poikkeus:
+        - tämä löytyy omasta repositorista:
+          https://github.com/Jorge65/myphonebook.git
+- osa4
+    - blogilistan frontend
+- osa5
+    - blogApp 
+        - frontend 
+        - backend 
