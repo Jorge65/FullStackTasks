@@ -20,3 +20,8 @@ Tehtävät on lajiteltu alihakemistoihin kurssin mukaisiin osiin.
     - blogApp 
         - frontend 
         - backend 
+- osa6
+    - teht6-2-redux-unicafe (tehtävät 6.1 - 6.2)
+    - teht6-19-redux-anecdotes (tehtävät 6.3 - 6.19)
+    - teht6-24-query-anecdotes (tehtävät 6.20 6.24)
+
