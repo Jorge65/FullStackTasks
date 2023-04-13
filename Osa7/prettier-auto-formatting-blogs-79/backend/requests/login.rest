@@ -1,0 +1,8 @@
+POST http://localhost:3003/api/notes
+Content-Type: application/json
+Authorization:
+
+{
+    "username": "jore4",
+    "password": "salainen"
+}
